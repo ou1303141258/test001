@@ -12,5 +12,6 @@ class my
         echo 999;
         echo 8888;
         echo 99995555;
+        echo 8888222;
     }
 }
