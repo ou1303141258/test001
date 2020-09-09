@@ -11,5 +11,6 @@ class my
     public function test() {
         echo 999;
         echo 8888;
+        echo 99995555;
     }
 }
