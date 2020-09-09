@@ -10,5 +10,6 @@ class my
 {
     public function test() {
         echo 999;
+        echo 8888;
     }
 }
