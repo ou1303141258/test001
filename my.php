@@ -14,5 +14,6 @@ class my
         echo 99995555;
         echo 8888222;
         echo "string";
+        echo "98899932662人们不上不末端";
     }
 }
