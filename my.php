@@ -13,5 +13,6 @@ class my
         echo 8888;
         echo 99995555;
         echo 8888222;
+        echo "string";
     }
 }
